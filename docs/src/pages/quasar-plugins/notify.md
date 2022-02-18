@@ -41,10 +41,6 @@ setup () {
 
 <doc-example title="Basic" file="Notify/Basic" />
 
-::: tip
-If you define any actions, the notification will automatically be dismissed when the user picks it.
-:::
-
 ### With caption
 
 <doc-example title="Caption" file="Notify/Caption" />
@@ -60,6 +56,10 @@ If you define any actions, the notification will automatically be dismissed when
 ### With actions
 
 <doc-example title="With actions" file="Notify/Actions" />
+
+::: tip
+If you define any actions, the notification will automatically be dismissed when the user picks it.
+:::
 
 ### Multiline
 
